@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ohnoniru
+- 👋 Hi, I’m Niraj
 - 👀 I’m interested in webdevelopment...
 - 🌱 I’m currently learning react..
 - 💞️ I’m looking to collaborate on any company
